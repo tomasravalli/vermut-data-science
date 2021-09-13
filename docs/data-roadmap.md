@@ -14,10 +14,10 @@ With data tracking and data pipeline as the building blocks, we propose a line o
 
 In the actual startup’s early stage it’s beneficial to start collecting quantitative data about customer behavior –and complementing it with qualitative data for domain knowledge–  so that we can improve the product systematically.
 Some of the key points we aim at are:
-Identifying key business metrics to track and forecast
-Understanding customer behavior and building predictive models
-Running experiments to test product changes
-Building data products that enable new product features
+- Identifying key business metrics to track and forecast
+- Understanding customer behavior and building predictive models
+- Running experiments to test product changes
+- Building data products that enable new product features
 
 ## 2. Tools & Data Sources <a name="toolssources"></a>
 This section details the main tools data sources that we’ll be using for accomplishing various data science tasks.<br\>
