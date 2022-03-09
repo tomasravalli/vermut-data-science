@@ -6,7 +6,7 @@ The goal of this document is to define the scope and draw a clear plan for build
 2. [Tools & Sources](#toolssources)
 3. [Tagging Plan](#taggingplan)
 4. [Business Intelligence](#businessintelligence)
-5. [Experimental Design](#experimentaldesign)
+5. [A/B Testing](#abtesting)
 
 
 ## 1. Introduction <a name="introduction"></a>
@@ -72,7 +72,7 @@ In order to improve the defined metrics, a series of dashboards will be delivere
 <img src="https://user-images.githubusercontent.com/4792886/133004091-9ab347ce-67c9-42b6-91da-5c19ffa9b18e.png" alt="alt text" width="1200">
                                                           
 
-## 5. Experimental Design <a name="experimentaldesign"></a>
+## 5. A/B Testing Design <a name="abtesting"></a>
 It’s important to be capable of determining if changes made to the product are beneficial. Experimentation is the key to finding causal relationships and improving incrementally. We’ll provide a framework to run experiments, analyze the results and a process to deploy the learnings to production. 
 
 <img src="https://user-images.githubusercontent.com/4792886/133003797-c0b61636-ab43-44ce-856b-bf43606a78bb.png" alt="alt text" width="1200">
